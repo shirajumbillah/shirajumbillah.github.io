@@ -1,16 +1,16 @@
-# 🌐 Aditya Bhatt — Cybersecurity Portfolio
+# 🌐 MD. SHIRAJUM BILLAH SIAM - Cybersecurity Portfolio
 
 Welcome to my personal portfolio website, hosted via GitHub Pages!
 
 This website showcases my professional journey, technical skills, certifications, achievements, major projects, and published articles in the field of **Cybersecurity**, **VAPT**, **Cryptography**, and **Cloud Security**.
 
-> 🔒 Ethical Hacker | Red Team Specialist | TryHackMe Global Top 2% | Published Author
+> 🔒 Ethical Hacker | Red Team Specialist | Published Author
 
 ---
 
 ## 🚀 Live Website
 
-Visit the portfolio: [https://adityabhatt3010.github.io](https://adityabhatt3010.github.io)
+Visit the portfolio: shirajumbillah.github.io
 
 ---
 
